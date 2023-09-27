@@ -1,2 +1,2 @@
 # homeopathy_data
-embedding data
+The above file contains openAI embeddings generated for some sample keywords and phrases from medical domain.
