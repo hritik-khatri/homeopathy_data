@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "OpenAI Hom_keyphrases",
+      "tensorShape": [
+        43512,
+        1536
+      ],
+      "tensorPath": "https://github.com/hritik-khatri/homeopathy_data/blob/main/embeddings.tsv",
+      "metadataPath": "https://github.com/hritik-khatri/homeopathy_data/blob/main/symptoms.tsv"
+    }
+  ]
+}
